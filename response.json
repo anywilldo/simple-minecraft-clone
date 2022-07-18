@@ -1,0 +1,6 @@
+{
+    "errorCode": 0,
+    "errorMsg": "success operated",
+    "response": "{\"crp_message\":{\"signature\":\"eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkX2hhc2giOiIzMGE5ZjZmZWQyODZiNTRlMzBjYWI1OTkwM2IzMDg4ZmQyNTc1ZjdkNDU2NzdkNmE3OGVhYjM1YTQxMTdmYWY2In0.tADUOSZUXMTszB2nLt3u7WyRo6FzsqrVxebwnyJ_hJ0\",\"payload\":{\"app_header\":{\"msg_id\":\"MCRP202204261022053781459975\",\"msg_type\":\"crp.cmn.rsp.01\",\"trans\":{\"from\":\"CRP\",\"to\":\"CP001\"},\"bnes\":{\"src\":\"CRP\",\"dest\":[\"CP001\"]},\"creation_date_time\":\"2022-04-26T10:22:05\"},\"app_body\":{\"org_msg_id\":\"MCP0012022042520399027018343\",\"return_code\":\"MSG00002\",\"return_desc\":\"Duplicate Message Identifier(MCP0012022042520399027018343). Business Message Identifier must be unique, Message Identifiers differ in trailing spaces only will be treated as duplicate.\"}},\"message_header\":{\"version\":\"1\"}}}",
+    "serverTime": "2022-04-26T10:22:05"
+}
